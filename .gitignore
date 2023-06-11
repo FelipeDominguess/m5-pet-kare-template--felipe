@@ -1,0 +1,14 @@
+# Arquivos específicos do Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Arquivos específicos do editor/IDE
+.vscode/
+.idea/
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
